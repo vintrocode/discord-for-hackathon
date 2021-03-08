@@ -39,33 +39,33 @@ Pulled from the MLH guide:
 
 I'd like to break down each of those components...
 
-#### Check-in
+### Check-in
 We want to know who attended and how to reach them. [This blog post](https://medium.com/techtogether/part-2-how-to-automate-the-check-in-process-for-hackathon-attendees-with-the-zira-bot-b79553ba484d) outlines a great way to use a bot to automate check-in. **Bots are a heavily leveraged in Discord for some very cool features.** Once people are checked in (can happen in advance of actual hacking), they can start chatting in the channels to introduce themselves, find teams, brainstorm ideas (not work on them!), etc.
 
-#### Opening ceremony
+### Opening ceremony
 Could edit together a nice video welcoming everybody to the hackathon. Possibly string together multiple clips of people saying things? Live stream on YouTube, Twitch? Possibilities are endless here, but you can announce when the event is happening in the `#announcements` channel, which _only the event organizers_ have access to post in.
 
-#### Workshops
+### Workshops
 These can be live streamed or pre-recorded and "premiered". The events can be announced in the `#announcements` channel, and they can link to the appropriate platform. Depending on the streaming platform, there can be a chat for real-time interaction with the presenter. I attended a virtual conference (Adobe MAX) that I thought was run very well -- instead of live-streaming, they had their presenters pre-record their videos and "premiere" them at a certain time. They added that time to their schedule along with a link to the video itself, and the experts who made the presentation were available in the chat to help and answer questions. This model allowed for very efficient time management since they could impose a time cap on the pre-recorded workshops submitted. As far as format goes, these were often just screen recordings with talking head bits. I personally found this method to be extremely effective for 1. respecting everyone's time, 2. helping people asynchronously, and 3. making the recording more concise and useful. I found myself spending an extra 30 mins to an hour replaying certain parts of the workshop to really hammer home the skills demonstrated. With more concise, pre-recorded videos, it was easier for me to "put in work after class" so-to-speak. This is all just personal opinion, however. Take it with a grain of salt :D
 
-#### Mini-Events
+### Mini-Events
 One of my favorite versions of this was the way PSU datafest has run it in the past. The event organizers would come up with obscure questions to answer from the data and the first one to come up with the right answer would win _swag_. This can be easily emulated in Discord. We can make a channel for specific mini events we want to sprinkle in throughout the hack. For example, maybe we make a channel called `#wrangle-for-swag` in which the event organizers can pin questions to the channel and the first person to wrangle the data and respond correctly to the question can be recognized, reached out to, and awarded. Pinning messages makes them easier to find if everyone starts spamming the chat with possible answers. If that happens, we can easily turn on _slowdown mode_, which limits the amount of time between posts for participants.
 
-#### Swag
+### Swag
 In a virtual hackathon, I imagine you'd have to verify a student's identity, get their address, and ship them swag if so desired... or you could send them virtual rewards like gift card codes, etc.
 
-#### Hacker Interactions
+### Hacker Interactions
 There are plenty of channels participants can take a mental break from serious stuff. There are meme channels, random channels, and I've even seen channels with fun objectives like `#count-to-500` and every person posts a message counting to 500. Once they get there, the admin will secretly change the title of the channel to increase the number and once people start noticing, the messages flood in.  
 You can also link a music service with a voice channel, so there can be a "study-beats" channel where there's good coding music playing.  
 There's a lot of creative potential here, just have to think outside the box.  
 
-#### Sponsor Interactions
+### Sponsor Interactions
 There can be specific channels dedicated to sponsors. Say BP sponsors the event and there are 2 representatives available in the `#sponsor-bp` channel -- students can join the channel, read what's been discussed, and ask questions. If a more personal discussion needs to take place, the sponsors and participants can join a voice/video channel in Discord and it's just like the virtual version of walking up to that sponsor's table at the IRL event.   
 
-#### Judging
+### Judging
 Participants can pre-record videos demonstrating their project and submit them for judging. They can be made available for viewing after judging.
 
-#### Closing Ceremony
+### Closing Ceremony
 Same deal as the opening ceremony. Pre-recorded or live streamed.
 
 
