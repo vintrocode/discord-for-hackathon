@@ -20,6 +20,24 @@ And according to this viral tweet, "slack is a boomer discord"
 
 ## Main components of a Hackathon
 
+From the digital software section of the guide:
+
+Include the following channels on your platform:
+
+    Team-Formation: Channel for hackers to form teams
+
+    Ask-Organizers: Channel for hackers to ask organizers any questions that come up throughout the event. 
+
+    Introductions: Channel for hackers to introduce themselves. Have your team set the norm for this by introducing yourselves. 
+
+    Random: Channel for anything that isn't hackathon related. 
+
+    Ask-Mentors: Channel for hackers to connect with mentors when they need help on their projects. 
+
+    Mentors-Internal: Channel for mentors to talk with eachother and with organizers. 
+
+    Admin: Channel for your organizing team. We recommend creating an admin voice channel as well! 
+
 Pulled from the MLH guide:
 
 <br/><br/>
