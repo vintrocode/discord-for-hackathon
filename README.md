@@ -8,7 +8,7 @@ Discord has historically had the stereotype of being a chat app targeted towards
 
 ##### Why not slack, teams, or anything else?
 
-The functionality of Discord is greater than most other apps. Not only does it have channels like slack, it also has free voice and video rooms like Zoom. You have more control over the server with _roles_, where you can control who sees what channels, who can add/delete/modify things, etc.
+The functionality of Discord is greater than most other apps. Not only does it have channels like slack, it also allows admins to create _categories of channels_. It's easy to create a category of channels for a hackathon to separate them from other more general ones. It also has free voice and video rooms like Zoom. You have more control over the server with _roles_, where you can control who sees what channels, who can add/delete/modify things, etc.
 
 <br/><br/>
 <img width="330" alt="image" src="https://user-images.githubusercontent.com/77507980/110384496-8f7c8080-8012-11eb-8370-6edcb1ac8e94.png">
