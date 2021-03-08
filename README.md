@@ -14,7 +14,7 @@ The functionality of Discord is greater than most other apps. Not only does it h
 <img width="330" alt="image" src="https://user-images.githubusercontent.com/77507980/110384496-8f7c8080-8012-11eb-8370-6edcb1ac8e94.png">
 <br/><br/>
 
-And according to this viral tweet, "slack is a boomer discord" 
+And according to this viral tweet, "slack looks like a boomer discord" 
 ![image](https://user-images.githubusercontent.com/77507980/110384346-5b08c480-8012-11eb-9bde-a4926705c9f8.png)
 
 
