@@ -69,4 +69,4 @@ Same deal as the opening ceremony. Pre-recorded or live streamed.
 
 
 ## Closing Thoughts
-The goal of a hackathon is to learn new things in the fastest way possible to build as much as you can in a short period of time. In regards to Gather, having to use a video-game like interface to get help on things might not prove to be the most time efficient. Discord provides a very clear and organized way to virtually meet peopls, get help, solve problems, and learn new things.
+The goal of a hackathon is to learn new things in the fastest way possible to build as much as you can in a short period of time. In regards to Gather, having to use a video-game like interface to get help on things might not prove to be the most time efficient. Discord provides a very clear and organized way to virtually meet people, get help, solve problems, and learn new things.
