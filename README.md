@@ -8,8 +8,11 @@ Discord has historically had the stereotype of being a chat app targeted towards
 
 ##### Why not slack, teams, or anything else?
 
-The functionality of Discord is greater than most other apps. Not only does it have channels like slack, it also has free voice and video rooms like Zoom. You have more control over the server with _roles_, where you can control who sees what channels, who can add/delete/modify things, etc. 
+The functionality of Discord is greater than most other apps. Not only does it have channels like slack, it also has free voice and video rooms like Zoom. You have more control over the server with _roles_, where you can control who sees what channels, who can add/delete/modify things, etc.
+
+<br/><br/>
 <img width="330" alt="image" src="https://user-images.githubusercontent.com/77507980/110384496-8f7c8080-8012-11eb-8370-6edcb1ac8e94.png">
+<br/><br/>
 
 And according to this viral tweet, "slack is a boomer discord" 
 ![image](https://user-images.githubusercontent.com/77507980/110384346-5b08c480-8012-11eb-9bde-a4926705c9f8.png)
@@ -18,7 +21,10 @@ And according to this viral tweet, "slack is a boomer discord"
 ## Main components of a Hackathon
 
 Pulled from the MLH guide:
+
+<br/><br/>
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/77507980/110382836-504d3000-8010-11eb-88ea-419390a36149.png">
+<br/><br/>
 
 I'd like to break down each of those components...
 
