@@ -15,6 +15,7 @@ And according to this viral tweet, "slack looks like a boomer discord"
 ![image](https://user-images.githubusercontent.com/77507980/110384346-5b08c480-8012-11eb-9bde-a4926705c9f8.png)
 <br/><br/>
 
+I wonder what his son would say about teams...
 
 ## Main components of a Hackathon
 
